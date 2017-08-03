@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pix">
+        <file>images/icons/16/check.png</file>
+        <file>images/icons/16/down.png</file>
+        <file>images/icons/16/up.png</file>
+    </qresource>
+</RCC>
